@@ -1,5 +1,17 @@
 # 💫 About Me:
-full stack-developer , <br><br>
+
+🚀 I’m a passionate **Full Stack Developer** who loves turning ideas into clean, responsive, and scalable web apps.  
+
+💻 I build projects using **React, Next.js, Node.js, Express, MongoDB,Neon and Firebase**, and I follow modern best practices in UI/UX and performance.  
+
+🧠 Currently learning **TensorFlow, Deep Learning, and Generative AI (GenAI)** to integrate intelligent systems into my apps.  
+
+🎯 I’m driven by curiosity and constantly exploring new technologies, including **DevOps**, and **AI-powered solutions**.
+
+💡 I’ve worked on several guided and academic projects, including full-stack apps, and machine learning experiments.  
+Always open to collaboration and learning opportunities!
+
+ <br><br>
 
 
 ## 🌐 Socials:
