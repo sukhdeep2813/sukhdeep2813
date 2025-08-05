@@ -18,7 +18,7 @@ I’m always open to collaboration and learning opportunities!
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukhdeepkumar918@gmail.com)
 
 ## 🚩 Featured Projects
-- **[MoviePulse : A Movie Recommendation Web Application](https://github.com/sukhdeep2813/Movie_Recomendation):** A smart platform that suggests movies based on your preferences, helping you discover new favorites quickly and easily.
+- **[MoviePulse : A Movie Recommendation Web Application](https://github.com/sukhdeep2813/Movie_Recomendation):** A smart movie recommendation platform that understands what you like and helps you find new movies easily. It gives personalized suggestions based on your taste.
 - **[Grocio - Grocery Web Application](https://github.com/sukhdeep2813/Grocio):** Grocio is an online grocery delivery platform focused on delivering fresh produce, grains, bakery products, dairy, drinks, and instant foods to your doorstep in under 30 minutes. Experience freshness, quality, and affordability—all in one place
 
 # 💻 Main Tech Stack
