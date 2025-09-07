@@ -6,7 +6,7 @@
 
 🧠 Currently learning **TensorFlow, Deep Learning, and Generative AI (GenAI)** to integrate intelligent systems into my apps.
 
-🎯 Driven by curiosity, I constantly explore new technologies, including **DevOps** and **AI-powered solutions**.
+🎯 I constantly explore new technologies, including **DevOps** and **AI-powered solutions**.
 
 💡 I’ve worked on several guided and academic projects, including full-stack apps and machine learning experiments.  
 I’m always open to collaboration and learning opportunities!
