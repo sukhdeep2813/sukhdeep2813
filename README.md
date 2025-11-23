@@ -23,7 +23,7 @@ I’m always open to collaboration and learning opportunities!
 - **Tech:** Python, YOLOv8-seg, PyTorch, Medical Segmentation Decathlon (Lung) Dataset.
 - **Description:** Developed a deep learning model using 3D CNNs to accurately segment and classify lung tumors from CT scans. This project focuses on computer vision application in medical diagnostics.
 
-### 🦾 [Text-to-Braille Converter (Embedded/Robotics)](https://github.com/only-suyashsharthi/Text-to-Braille-Converter)
+### 🦾 [Text-to-Braille Converter (Embedded/Robotics)](https://github.com/sukhdeep2813/Text-to-Braille-Converter)
 - **Tech:** Arduino (C++), Servo Motors, SD Card Module.
 - **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time.
 
