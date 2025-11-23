@@ -19,27 +19,25 @@ I’m always open to collaboration and learning opportunities!
 
 ## 🚩 Featured Projects
 
+### 🧠 [Lung Tumor Segmentation (AI/Research)](https://github.com/sukhdeep2813/7th-Sem-Project)
+- **Tech:** Python, YOLOv8-seg, PyTorch, LIDC-IDRI Dataset.
+- **Description:** Developed a deep learning model using 3D CNNs to accurately segment and classify lung tumors from CT scans. This project focuses on computer vision application in medical diagnostics.
+
 ### 🦾 **Text-to-Braille Converter (Embedded/Robotics)**
 - **Tech:** Arduino (C++), Servo Motors, PCB Design, SD Card Module.
-- **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time. Integrated the entire system onto a custom PCB for usability.
+- **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time.
 
-### 🧠 **Lung Tumor Segmentation (AI/Research)**
-- **Tech:** Python, YOLOv8-seg, PyTorch, LIDC-IDRI Dataset.
-- **Description:** Developed a deep learning model using 3D CNNs to accurately segment and classify lung tumors from CT scans, assisting in early diagnosis.
-
-### 🎬 **[MoviePulse](https://github.com/sukhdeep2813/Movie_Recomendation)**
-- **Tech:** React, Node.js, Machine Learning APIs.
-- **Description:** A smart recommendation engine that uses ML to analyze user preferences and deliver personalized movie suggestions via a responsive web interface.
+### 🛒 **[Grocio - Hyperlocal Delivery System](https://github.com/sukhdeep2813/Grocio)**
+- **Tech:** MERN Stack (React, Node.js, MongoDB), Redux, Firebase.
+- **Description:** A high-performance grocery logistics platform designed for sub-30-minute delivery. Implemented real-time inventory tracking and optimized database queries to handle concurrent user requests efficiently.
 
 # 💻 Main Tech Stack
-<!-- ROBOTICS & AI SKILLS FIRST -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<!-- WEB & TOOLS -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
