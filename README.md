@@ -6,7 +6,7 @@
 
 🧠 Currently developing **Computer Vision models (YOLO, TensorFlow)** and exploring **ROS 2** to integrate intelligent perception into my projects.
 
-🎯 I constantly explore new technologies, including **Deep Learning**, **DevOps**, and **PCB Design**.
+🎯 I constantly explore new technologies, including **Deep Learning** and **DevOps**
 
 💡 I’ve worked on several academic projects, ranging from **Embedded Hardware prototypes** to medical AI solutions.
 I’m always open to collaboration and learning opportunities!
