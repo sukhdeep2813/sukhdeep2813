@@ -1,16 +1,12 @@
 # 💫 About Me
 
-🚀 I’m a passionate **Software Engineer** bridging the gap between **AI, Robotics, and Embedded Systems**.
+🚀 I am a final-year student at NSUT with a deep interest in software. I am working hard to become a great Software Development Engineer (SDE) and build high-quality applications.
 
-💻 I build scalable systems using **C++, Python, and the MERN Stack**, focusing on performance and real-world application.
+💻 I build scalable systems using C++, Python, and the MERN Stack, focusing on performance and real-world application.
 
-🧠 Currently developing **Computer Vision models (YOLO, TensorFlow)** and exploring **ROS 2** to integrate intelligent perception into my projects.
+🧠 I enjoy solving problems and applying Computer Vision to build intelligent features in my projects.
 
-🎯 I constantly explore new technologies, including **Deep Learning** and **DevOps**
-
-💡 I’ve worked on several academic projects, ranging from **Embedded Hardware prototypes** to medical AI solutions.
-I’m always open to collaboration and learning opportunities!
-
+💡 I’ve worked on several academic projects, ranging from hardware prototypes to medical AI solutions. I’m always open to collaboration and learning opportunities.
 <br>
 
 ## 🌐 Socials
