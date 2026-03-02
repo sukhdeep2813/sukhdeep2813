@@ -23,7 +23,7 @@
 - **Tech:** Arduino (C++), Servo Motors, SD Card Module.
 - **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time.
 
-### 🛒 **[Grocio - Hyperlocal Delivery System](https://github.com/sukhdeep2813/Grocio)**
+### 🛒 **[Grocio - E Commerce Website](https://github.com/sukhdeep2813/Grocio)**
 - **Tech:** MERN Stack (React, Node.js, MongoDB), Redux, Firebase.
 - **Description:** A high-performance grocery logistics platform designed for sub-30-minute delivery. Implemented real-time inventory tracking and optimized database queries to handle concurrent user requests efficiently.
 
