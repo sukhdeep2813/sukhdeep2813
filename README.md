@@ -10,7 +10,7 @@
 <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=wh)](https://www.linkedin.com/in/sukhdeep-1599b2256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhdeep-1599b2256/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sukhdeepkumar918@gmail.com)
 
 ## 🚩 Featured Projects
@@ -41,6 +41,7 @@
 
 ## Backend & Runtime
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-404d59?style=for-the-badge&logo=express&logoColor=white)
 
 ## Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -50,9 +51,9 @@
 ## Tools & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io-badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io-badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![k6](https://img.shields.io-badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Postman](https://img.shields.io-badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
 <!-- Changed theme from dark to transparent to avoid black/blank rendering when GitHub proxies SVGs -->
