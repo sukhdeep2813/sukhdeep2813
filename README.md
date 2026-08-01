@@ -24,8 +24,8 @@
 - **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time.
 
 ### 🛒 **[Grocio - E Commerce Website](https://github.com/sukhdeep2813/Grocio)**
-- **Tech:** MERN Stack (React, Node.js, MongoDB), Redux, Firebase.
-- **Description:** A high-performance grocery logistics platform designed for sub-30-minute delivery. Implemented real-time inventory tracking and optimized database queries to handle concurrent user requests efficiently.
+- **Tech:** MERN Stack (React,Express.js Node.js, MongoDB, JavaScript), Redux.
+- **Description:** Implemented real-time inventory tracking and optimized database queries to handle concurrent user requests efficiently.
 
 # 💻 Tech Stack
 ## Languages
@@ -35,6 +35,7 @@
 
 ## Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23000020)
 
