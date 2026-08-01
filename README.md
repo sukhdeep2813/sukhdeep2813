@@ -17,11 +17,11 @@
 
 ### 🧠 [Lung Tumor Segmentation (AI/Research)](https://github.com/sukhdeep2813/7th-Sem-Project)
 - **Tech:** Python, YOLOv8-seg, PyTorch, Medical Segmentation Decathlon (Lung) Dataset.
-- **Description:** Developed a deep learning model using 3D CNNs to accurately segment and classify lung tumors from CT scans. This project focuses on computer vision application in medical diagnostics.
+- **Description:** Developed a deep learning model using 3D CNNs to accurately segment and classify lung tumors from CT scans. This project focuses on computer vision application in medical diagno[...]
 
 ### 🦾 [Text-to-Braille Converter (Embedded/Robotics)](https://github.com/sukhdeep2813/Text-to-Braille-Converter)
 - **Tech:** Arduino (C++), Servo Motors, SD Card Module.
-- **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in real-time.
+- **Description:** Engineered a tactile Braille display for visually impaired users. Programmed an Arduino to interpret English text and actuate 6 servo motors to replicate Braille dot patterns in[...]
 
 ### 🛒 **[Grocio - E Commerce Website](https://github.com/sukhdeep2813/Grocio)**
 - **Tech:** MERN Stack (React,Express.js Node.js, MongoDB, JavaScript), Redux.
@@ -49,14 +49,15 @@
 
 ## Tools & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io-badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sukhdeep2813&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sukhdeep2813&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep2813&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Changed theme from dark to transparent to avoid black/blank rendering when GitHub proxies SVGs -->
+![](https://github-readme-stats.vercel.app/api?username=sukhdeep2813&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sukhdeep2813&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep2813&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=sukhdeep2813&icon=0&color=0)](https://visitcount.itsvg.in)
